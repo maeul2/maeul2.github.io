@@ -33,7 +33,7 @@ breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true
 copyright                : # "copyright" name, defaults to site.title
-copyright_url            : # "copyright" URL, defaults to site.url
+copyright_url            : "https://maeul2.github.io/blog"
 comments:
   provider               : "giscus"
   disqus:
@@ -117,7 +117,7 @@ author:
   name             : "WSL2077"
   avatar           : "/assets/images/profile.png"
   bio              : "개발(자) 마을이 주인"
-  location         : "마을이집 구석<br/>한켠에 책상과 침대"
+  location         : "마을이집 구석<br/>&nbsp;&nbsp;한켠에 책상과 침대"
   email            :
   links:
     - label: "Email"
