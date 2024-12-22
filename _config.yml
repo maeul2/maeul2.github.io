@@ -20,7 +20,7 @@ locale                   : "ko_KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "마을이네"
 title_separator          : "|"
-subtitle                 : "since 2024.12"
+subtitle                 : "since 2022.02"
 name                     : "WSL2077"
 description              : "마을이 주인 블로그"
 url                      : "https://maeul2.github.io"
