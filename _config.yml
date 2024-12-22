@@ -27,7 +27,7 @@ url                      : "https://maeul2.github.io"
 baseurl                  : "/blog"
 repository               : "maeul2/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/circle_1080x1080.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -117,7 +117,7 @@ author:
   name             : "WSL2077"
   avatar           : "/assets/images/profile.png"
   bio              : "개발자 마을이 주인"
-  location         : "마을이집 구석 한켠에 책상과 침대"
+  location         : "마을이집 구석\n한켠에 책상과 침대"
   email            :
   links:
     - label: "Email"
