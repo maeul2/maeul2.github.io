@@ -68,7 +68,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -117,7 +117,7 @@ author:
   name             : "WSL2077"
   avatar           : "/assets/images/profile.png"
   bio              : "개발자 마을이 주인"
-  location         : "마을이집"
+  location         : "마을이집 구석 한켠에 책상과 침대"
   email            :
   links:
     - label: "Email"
