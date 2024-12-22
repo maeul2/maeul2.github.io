@@ -52,7 +52,7 @@ comments:
     repo_id              : "R_kgDONgteuQ"
     category_name        : "General"
     category_id          : "DIC_kwDONgteuc4Clb1d"
-    discussion_term      : "pathname"
+    discussion_term      : "title"
     reactions_enabled    : 1
     theme                : "preferred_color_scheme"
     strict               : 0
