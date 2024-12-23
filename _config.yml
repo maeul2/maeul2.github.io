@@ -20,22 +20,22 @@ locale                   : "ko_KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "마을이네"
 title_separator          : "|"
-subtitle                 : "since 2022.02"
+subtitle                 : "since 2022.02" # site tagline that appears below site title in masthead
 name                     : "WSL2077"
 description              : "마을이 주인 블로그"
-url                      : "https://maeul2.github.io"
-baseurl                  : "/blog"
-repository               : "maeul2/blog"
+url                      : "https://maeul2.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+repository               : "maeul2/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : true
+enable_copy_code_button  : true # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
-copyright_url            : "https://maeul2.github.io/blog"
+copyright_url            : "https://maeul2.github.io/blog" # "copyright" URL, defaults to site.url
 comments:
-  provider               : "giscus"
+  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -49,17 +49,17 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : "R_kgDONgteuQ"
-    category_name        : "General"
-    category_id          : "DIC_kwDONgteuc4Clb1d"
-    discussion_term      : "title"
-    reactions_enabled    : 1
-    theme                : "preferred_color_scheme"
-    strict               : 0
-    input_position       : "top"
+    repo_id              : "R_kgDONgteuQ" # Shown during giscus setup at https://giscus.app
+    category_name        : "General" # Full text name of the category
+    category_id          : "DIC_kwDONgteuc4Clb1d" # Shown during giscus setup at https://giscus.app
+    discussion_term      : "title" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
+    theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    strict               : 0 # 1 for enabled, 0 for disabled (default)
+    input_position       : "top" # "top", "bottom" # The comment input box will be placed above or below the comments
     emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : "ko"
-    lazy                 : true
+    lang                 : "ko" # "en" (default)
+    lazy                 : true # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -68,8 +68,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true
-search                   : true
+  hide                   : true # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "WSL2077"
-  avatar           : "/assets/images/profile.png"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "개발(자)인 마을이 주인"
   location         : "마을이집 구석 한켠<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;책상과 침대"
   email            :
