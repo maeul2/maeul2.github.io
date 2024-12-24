@@ -14,17 +14,18 @@
   {% capture alt %}{{ post.header.alt }}{% endcapture %}
 {% endif %}
 
-<div class="feature__wrapper">
-    <div class="feature__item--center">
-        <div class="archive__item">
-            <div class="archive__item-teaser">
-                <img src="{{ teaser | relative_url }}" alt="{% if alt %}{{ alt }}{% endif %}">
-            </div>
-            <div class="archive__item-body">
-                <h2 class="archive__item-title">{{ title }}</h2>
-    
+<div class="list__item">
+    <div class="feature__wrapper">
+        <div class="feature__item--center">
+            <div class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>                
+                <div class="archive__item-teaser">
+                    <img src="{{ teaser | relative_url }}" alt="{% if alt %}{{ alt }}{% endif %}">
+                </div>
+
+                {% include page__meta.html %}
+        
                 {% if post.excerpt %}
-                    <div class="archive__item-excerpt">
+                    <div class="archive__item-excerpt" itemprop="description">
                         {{ post.excerpt | markdownify | truncate: 40 }}
                     </div>
                 {% endif %}

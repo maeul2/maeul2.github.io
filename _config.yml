@@ -338,3 +338,10 @@ defaults:
       type: pages
     values:
       author_profile: true
+  - scope:
+      path: ""
+      type: feeds
+    values:
+      show_date: true
+      layout: single
+      author_profile: true

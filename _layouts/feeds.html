@@ -15,12 +15,23 @@ layout: archive
     {% endfor %}
 </ul>
 
+{% assign sort_by = page.sort_by | default: 'date' %}
+{% assign sort_order = page.sort_order | default: 'reverse' %}
+
 {% assign postsByYear = site[page.collection] | where_exp: "post", "post.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
+    {% assign entries = year.items %}
+    {% if sort_by %}
+        {% assign entries = entries | sort: sort_by %}
+    {% endif %}
+    {% if sort_order == 'reverse' %}
+        {% assign entries = entries | reverse %}
+    {% endif %}
+
     <section id="{{ year.name }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ year.name }}</h2>
         <div class="entries-feed">
-            {% for post in year.items %}
+            {% for post in entries %}
                 {% include feed.html %}
             {% endfor %}
         </div>

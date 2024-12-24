@@ -1,8 +1,8 @@
 var store = [{
         "title": "병원에서",
-        "excerpt":" ","categories": [],
+        "excerpt":"병원에서  ","categories": [],
         "tags": [],
-        "url": "/blog/feeds/20231223.%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C",
+        "url": "/blog/feeds/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C_20231223",
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
       },{
         "title": "블로그를 처음 시작하며...",
