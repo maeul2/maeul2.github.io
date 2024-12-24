@@ -1,0 +1,13 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'feed' %}
+{% assign sort_by = page.sort_by | default: 'date' %}
+{% assign sort_order = page.sort_order | default: 'reverse' %}
+{% assign btn_class = page.btn_class | default: 'btn--info' %}
+<div class="entries-feed">
+    {% include documents-collection.html collection=page.collection sort_by=sort_by sort_order=sort_order type=entries_layout btn_class=btn_class %}
+</div>
