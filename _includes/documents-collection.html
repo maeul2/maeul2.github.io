@@ -9,9 +9,5 @@
 {% endif %}
 
 {%- for post in entries -%}
-  {% if include.type == 'feed' %}
-    {% include feed.html %}
-  {% else %}
-    {% include archive-single.html type=include.type %}
-  {% endif %}
+  {% include archive-single.html type=include.type %}
 {%- endfor -%}
