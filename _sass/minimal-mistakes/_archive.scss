@@ -128,6 +128,13 @@
   }
 }
 
+.feed__item {
+  .page__meta {
+    margin: 5px 0;
+    font-size: 0.6em;
+  }
+}
+
 /*
    Grid view
    ========================================================================== */
@@ -362,7 +369,16 @@
       width: 100%;
     }
 
+    .feed__item {
+      float: inline-start;
+      width: 100%
+    }
+
     .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    .feed__item-teaser {
       margin-bottom: 2em;
     }
 
@@ -380,9 +396,20 @@
         width: span(5 of 12);
       }
 
+      .feed__item-teaser {
+        margin: 0 auto;
+        width: span(5 of 12);
+      }
+
       .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
+      }
+
+      .feed__item-body {
+        margin: 0 auto;
+        width: span(5 of 12);
+        text-align: start;
       }
     }
   }

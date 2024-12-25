@@ -1,6 +1,6 @@
 var store = [{
         "title": "병원에서",
-        "excerpt":"병원에서  ","categories": [],
+        "excerpt":"   연 합 뉴 스!  ","categories": [],
         "tags": [],
         "url": "/blog/feeds/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C_20231223",
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
