@@ -98,6 +98,12 @@ var store = [{
         "title": "병원에서",
         "excerpt":"   연 합 뉴 스!  ","categories": ["feed"],
         "tags": [],
+        "url": "/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C-copy-2.html",
+        "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
+      },{
+        "title": "병원에서",
+        "excerpt":"   연 합 뉴 스!  ","categories": ["feed"],
+        "tags": [],
         "url": "/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C-copy-10.html",
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
       },{
@@ -117,12 +123,6 @@ var store = [{
         "excerpt":"   연 합 뉴 스!  ","categories": ["feed"],
         "tags": [],
         "url": "/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C-copy-13.html",
-        "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
-      },{
-        "title": "병원에서",
-        "excerpt":"   연 합 뉴 스!  ","categories": ["feed"],
-        "tags": [],
-        "url": "/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C-copy-2.html",
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
       },{
         "title": "병원에서",
