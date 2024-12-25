@@ -18,7 +18,9 @@
   <div class="feature__item--center">
       <div class="feed__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>                
           <div class="feed__item-teaser">
-              <img src="{{ teaser | relative_url }}" alt="{% if alt %}{{ alt }}{% endif %}">
+              <a href="{{ post.url | relative_url }}">
+                <img src="{{ teaser | relative_url }}" alt="{% if alt %}{{ alt }}{% endif %}">
+              </a>
           </div>
 
           <div class="feed__item-body">
@@ -29,10 +31,7 @@
                   {{ post.excerpt | markdownify | truncate: 40 }}
               </div>
             {% endif %}
-
-            {% if post.more %}
-                <p><a href="{{ post.url | relative_url }}" class="btn btn--info">{{ post.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-            {% endif %}
+            
           </div>
       </div>
   </div>

@@ -379,7 +379,7 @@
     }
 
     .feed__item-teaser {
-      margin-bottom: 2em;
+      margin: 0 auto;
     }
 
     a.btn::before {
@@ -397,7 +397,6 @@
       }
 
       .feed__item-teaser {
-        margin: 0 auto;
         width: span(5 of 12);
       }
 
