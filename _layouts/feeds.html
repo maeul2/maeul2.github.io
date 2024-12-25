@@ -2,10 +2,10 @@
 layout: archive
 ---
 
-{{ content }}
+{% assign feeds = site.categories.feed %}
 
 <ul class="taxonomy__index">
-    {% assign postsInYear = site[page.collection] | where_exp: "post", "post.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+    {% assign postsInYear = feeds | where_exp: "post", "post.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
     {% for year in postsInYear %}
       <li>
         <a href="#{{ year.name }}">
@@ -18,7 +18,7 @@ layout: archive
 {% assign sort_by = page.sort_by | default: 'date' %}
 {% assign sort_order = page.sort_order | default: 'reverse' %}
 
-{% assign postsByYear = site[page.collection] | where_exp: "post", "post.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% assign postsByYear = feeds | where_exp: "post", "post.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
     {% assign entries = year.items %}
     {% if sort_by %}

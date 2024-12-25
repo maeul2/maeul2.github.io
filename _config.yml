@@ -221,9 +221,6 @@ kramdown:
   enable_coderay: false
 
 collections:
-  feeds:
-    output: true
-    permalink: /:collection/:path
 
 # Sass/SCSS
 sass:
@@ -331,17 +328,15 @@ defaults:
       share: false
       related: true
       show_date: true
+  - scope:
+      path: "feed"
+      type: posts
+    values:
+      related: false
+      read_time: false
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       author_profile: true
-  - scope:
-      path: ""
-      type: feeds
-    values:
-      show_date: true
-      layout: single
-      author_profile: true
-      comments: true
