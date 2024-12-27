@@ -5,7 +5,7 @@ main:
   - title: "DEV"
     url: "/dev/"
   - title: "TODO"
-    url: "#"
+    url: "/todo/"
   - title: "GALLERY"  
     url: "#"
   - title: "LIBRARY"
