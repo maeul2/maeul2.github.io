@@ -11,8 +11,20 @@ var store = [{
         "url": "/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html",
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
       },{
+        "title": "개발 카테고리를 처음 만들며...",
+        "excerpt":" ","categories": ["DEV","D.D.D","TODO"],
+        "tags": [],
+        "url": "/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html",
+        "teaser": null
+      },{
     "title": "Feed",
     "excerpt":"","url": "https://maeul2.github.io/blog/feed/index.html"
+  },{
+    "title": "Domain Driven Design",
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/D.D.D/index.html"
+  },{
+    "title": "Dev",
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/index.html"
   },{
     "title": "마을이네",
     "excerpt":"","url": "https://maeul2.github.io/blog/index.html"

@@ -3,7 +3,7 @@ main:
   - title: "FEED"
     url: "/feed/"
   - title: "DEV"
-    url: "#"
+    url: "/dev/"
   - title: "TODO"
     url: "#"
   - title: "GALLERY"  
@@ -13,7 +13,7 @@ main:
 
 dev:
   - title: "D.D.D"
-    url: "#"
+    url: "/dev/D.D.D/"
   - title: "Design Pattern"
     url: "#"
   - title: "Spring Security"
