@@ -12,7 +12,7 @@ var store = [{
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
       },{
         "title": "이게 뭘까?",
-        "excerpt":"  마을이랑 산책 중에 수풀에서 소리가 나는 곳을 마을이가 뚫어지게 보길래 뭔가 해서 봣는데 너구리인가?   처음으로 갤럭시가 아쉬웠다ㅋㅋ  ","categories": ["FEED"],
+        "excerpt":"  마을이랑 산책 중에 수풀에서 소리가 나는 곳을 마을이가 뚫어지게 보길래 뭔가 해서 봣는데 너구리인가? 여우는 아니겟지ㅎㅎ   처음으로 갤럭시가 아쉬웠다ㅋㅋ  ","categories": ["FEED"],
         "tags": [],
         "url": "/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html",
         "teaser": "https://github.com/user-attachments/assets/a4c9c853-e70e-493b-84c8-44fde3a8c073"
