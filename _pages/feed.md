@@ -5,5 +5,5 @@ permalink: /feed/
 classes: wide
 pagination:
   enabled: true
-  category: feed
+  category: FEED
 ---

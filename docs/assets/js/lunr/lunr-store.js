@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "병원에서",
-        "excerpt":"   연 합 뉴 스!  ","categories": ["feed"],
+        "excerpt":"   연 합 뉴 스!  ","categories": ["FEED"],
         "tags": [],
         "url": "/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html",
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
