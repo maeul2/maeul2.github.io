@@ -223,6 +223,9 @@ kramdown:
   enable_coderay: false
 
 collections:
+  todo:
+    output: true
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
@@ -343,6 +346,16 @@ defaults:
       path: ""
       type: pages
     values:
+      author_profile: true
+  - scope:
+      path: ""
+      type: todo
+    values:
+      layout: single
+      comment: true
+      related: true
+      show_date: true
+      read_time: true
       author_profile: true
 
 future: true

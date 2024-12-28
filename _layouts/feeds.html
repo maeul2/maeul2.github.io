@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-{% assign feeds = paginator.posts %}
+{% assign feeds = paginator.posts | default: site.categories['FEED'] %}
 
 <div class="entries-feed">
     {% for post in feeds %}

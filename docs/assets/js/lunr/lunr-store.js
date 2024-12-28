@@ -1,4 +1,10 @@
 var store = [{
+        "title": "1일 1페이지, 세상에서 가장 짧은 교양수업 365",
+        "excerpt":"지금까지 읽은 내용으로 봤을 때   네 저는 지금까지 교양이 없는 사람이었고 앞으로도 교양 있는 사람이 되기는 힘들 것 같습니다…  ","categories": ["LIBRARY"],
+        "tags": ["TODO"],
+        "url": "/blog/2024/09/%EA%B5%90%EC%96%91.html",
+        "teaser": "https://github.com/user-attachments/assets/9775b50f-3601-4687-a753-55a46c89e866"
+      },{
         "title": "블로그를 처음 시작하며...",
         "excerpt":"취업한지 어언 2년하고도 6개월이 지났는데… 2년 6개월 동안 거의 집 - 회사 - 테니스 루틴이었던 것 같다. 그런 와중에 부상과 테니스장 리모델링으로 일상 루틴 중 유일한 취미 생활이 중단 될 위기에 처한 상황이다! 뭐 테니스를 쉬는 동안 체형 교정도 할겸 P.T를 받을 계획이긴 하지만 예나 지금이나 헬스는 재미가 없다ㅠ 다른...","categories": [],
         "tags": [],
@@ -19,7 +25,7 @@ var store = [{
       },{
         "title": "이토록 다정한 개인주의자",
         "excerpt":"이 책을 일게 된 계기는 책의 목차에서 ‘고속버스 좌석 등받이를 마음대로 젖혀도 괜찮을까?’ 라는 제목을 보고 흥미가 동해서 이다. (최근에 비행기나 고속 버스에서 등받이를 젖혀도 되느냐 마냐로 논란이 일었다.) 이 외에도 책에서는 기냐 아니냐로 논란이 일었던 사건들을 다루고 있다. 과연 이 책에서는 어떤 입장의 손을 들어줄까? 라는 생각을 하며 책을...","categories": ["LIBRARY"],
-        "tags": ["TODO"],
+        "tags": [],
         "url": "/blog/2024/12/%EA%B0%9C%EC%9D%B8%EC%A3%BC%EC%9D%98%EC%9E%90.html",
         "teaser": "https://github.com/user-attachments/assets/8e4832bd-e37e-4997-bd66-628dd31fbbd6"
       },{
@@ -35,58 +41,52 @@ var store = [{
         "url": "/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
-        "title": "1일 1페이지, 세상에서 가장 짧은 교양수업 365",
-        "excerpt":"지금까지 읽은 내용으로 봤을 때   네 저는 지금까지 교양이 없었고 앞으로도 교양 있는 사람이 되기는 힘들 것 같습니다…  ","categories": ["LIBRARY"],
-        "tags": ["TODO"],
-        "url": "/blog/2024/12/%EA%B5%90%EC%96%91.html",
-        "teaser": "https://github.com/user-attachments/assets/9775b50f-3601-4687-a753-55a46c89e866"
-      },{
         "title": "섬진강 자전거길",
-        "excerpt":"신문의 날이 월요일!!!   섬진강 벚꽃길 자전거 여행  ","categories": ["TODO"],
+        "excerpt":"신문의 날이 월요일!!!   섬진강 벚꽃길 자전거 여행  ","categories": [],
         "tags": ["여행"],
-        "url": "/blog/2025/04/%EC%84%AC%EC%A7%84%EA%B0%95_%EC%9E%90%EC%A0%84%EA%B1%B0%EA%B8%B8.html",
+        "url": "/blog/todo/2024-12-27-%EC%84%AC%EC%A7%84%EA%B0%95_%EC%9E%90%EC%A0%84%EA%B1%B0%EA%B8%B8/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "드럼 배우기",
-        "excerpt":"드럼을 배우고 언젠가 마음 맞는 사람들이랑 밴드 활동도 해보고 싶다.  ","categories": ["TODO"],
+        "excerpt":"드럼을 배우고 언젠가 마음 맞는 사람들이랑 밴드 활동도 해보고 싶다.  ","categories": [],
         "tags": ["취미"],
-        "url": "/blog/2025/12/%EB%93%9C%EB%9F%BC.html",
+        "url": "/blog/todo/2024-12-27-%EB%93%9C%EB%9F%BC/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "바둑 배우기",
-        "excerpt":" ","categories": ["TODO"],
+        "excerpt":" ","categories": [],
         "tags": ["취미"],
-        "url": "/blog/2025/12/%EB%B0%94%EB%91%91.html",
+        "url": "/blog/todo/2024-12-27-%EB%B0%94%EB%91%91/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "덕적도-굴업도 여행",
-        "excerpt":"마을이와 함께하는 섬여행   덕적도에서 낚시하고 굴업도에서 백패킹.  ","categories": ["TODO"],
+        "excerpt":"마을이와 함께하는 섬여행   덕적도에서 낚시하고 굴업도에서 백패킹.  ","categories": [],
         "tags": ["여행"],
-        "url": "/blog/2025/12/%EB%8D%95%EC%A0%81%EB%8F%84_%EA%B5%B4%EC%97%85%EB%8F%84.html",
-        "teaser": "/blog/assets/images/default_teaser.png"
-      },{
-        "title": "캐나다 여행",
-        "excerpt":"퀘백, 옐로나이프…  ","categories": ["TODO"],
-        "tags": ["여행"],
-        "url": "/blog/2026/12/%EC%BA%90%EB%82%98%EB%8B%A4_%EC%97%AC%ED%96%89.html",
+        "url": "/blog/todo/2024-12-29-%EB%8D%95%EC%A0%81%EB%8F%84_%EA%B5%B4%EC%97%85%EB%8F%84/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "겨울 몽골 여행",
-        "excerpt":"28-29살 20대에 느꼈던 몽골이랑 30대에 느끼는 몽골은 다른 느낌일까?   뭐 여름 겨울이니 당연히 다르긴 하겟지만ㅋ   과연 갈 것 인가…   ","categories": ["TODO"],
+        "excerpt":"28-29살 20대에 느꼈던 몽골이랑 30대에 느끼는 몽골은 다른 느낌일까?   뭐 여름 겨울이니 당연히 다르긴 하겟지만ㅋ   과연 갈 것 인가…   ","categories": [],
         "tags": ["여행"],
-        "url": "/blog/2027/12/%EB%AA%BD%EA%B3%A8_%EC%97%AC%ED%96%89.html",
+        "url": "/blog/todo/2024-12-28-%EB%AA%BD%EA%B3%A8_%EC%97%AC%ED%96%89/",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
+        "title": "캐나다 여행",
+        "excerpt":"퀘백, 옐로나이프…오로라!!!  ","categories": [],
+        "tags": ["여행"],
+        "url": "/blog/todo/2024-12-28-%EC%BA%90%EB%82%98%EB%8B%A4_%EC%97%AC%ED%96%89/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "북유럽 여행",
-        "excerpt":"피요르드, 트레킹…젊을 때 고생해야지  ","categories": ["TODO"],
+        "excerpt":"피요르드, 트레킹…젊을 때 고생해야지  ","categories": [],
         "tags": ["여행"],
-        "url": "/blog/2027/12/%EB%B6%81%EC%9C%A0%EB%9F%BD_%EC%97%AC%ED%96%89.html",
+        "url": "/blog/todo/2024-12-29-%EB%B6%81%EC%9C%A0%EB%9F%BD_%EC%97%AC%ED%96%89/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "뉴질랜드 여행",
-        "excerpt":"10년차 근속 휴가. 이 때가 오긴 할까ㅋㅋ  ","categories": ["TODO"],
+        "excerpt":"10년차 근속 휴가. 이 때가 오긴 할까ㅋㅋ  ","categories": [],
         "tags": ["여행"],
-        "url": "/blog/2032/12/%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C_%EC%97%AC%ED%96%89.html",
+        "url": "/blog/todo/2024-12-29-%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C_%EC%97%AC%ED%96%89/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
     "title": "TODO",
@@ -118,7 +118,4 @@ var store = [{
   },{
     "title": "마을이네",
     "excerpt":"","url": "https://maeul2.github.io/blog/index.html"
-  },{
-    "title": "마을이네",
-    "excerpt":"","url": "https://maeul2.github.io/blog/page/2/index.html"
   }]
