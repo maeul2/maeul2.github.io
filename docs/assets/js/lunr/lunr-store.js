@@ -18,7 +18,7 @@ var store = [{
         "teaser": "https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27"
       },{
         "title": "이게 뭘까?",
-        "excerpt":"  마을이랑 산책 중에 수풀에서 소리가 나는 곳을 마을이가 뚫어지게 보길래 뭔가 해서 봣는데 너구리인가? 여우는 아니겟지ㅎㅎ   처음으로 갤럭시가 아쉬웠다ㅋㅋ  ","categories": ["FEED"],
+        "excerpt":"마을이랑 산책 중에 수풀에서 소리가 나는 곳을 마을이가 뚫어지게 보길래 뭔가 해서 봣는데…     너구리인가? 여우는 아니겟지ㅎㅎ   처음으로 갤럭시가 아쉬웠다ㅋㅋ  ","categories": ["FEED"],
         "tags": [],
         "url": "/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html",
         "teaser": "https://github.com/user-attachments/assets/a4c9c853-e70e-493b-84c8-44fde3a8c073"
@@ -47,6 +47,12 @@ var store = [{
         "url": "/blog/todo/2024-12-27-%EC%84%AC%EC%A7%84%EA%B0%95_%EC%9E%90%EC%A0%84%EA%B1%B0%EA%B8%B8/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
+        "title": "덕적도-굴업도 여행",
+        "excerpt":"마을이와 함께하는 섬여행   덕적도에서 낚시하고 굴업도에서 백패킹.  ","categories": [],
+        "tags": ["여행"],
+        "url": "/blog/todo/2024-12-27-%EB%8D%95%EC%A0%81%EB%8F%84_%EA%B5%B4%EC%97%85%EB%8F%84/",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
         "title": "드럼 배우기",
         "excerpt":"드럼을 배우고 언젠가 마음 맞는 사람들이랑 밴드 활동도 해보고 싶다.  ","categories": [],
         "tags": ["취미"],
@@ -57,12 +63,6 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": ["취미"],
         "url": "/blog/todo/2024-12-27-%EB%B0%94%EB%91%91/",
-        "teaser": "/blog/assets/images/default_teaser.png"
-      },{
-        "title": "덕적도-굴업도 여행",
-        "excerpt":"마을이와 함께하는 섬여행   덕적도에서 낚시하고 굴업도에서 백패킹.  ","categories": [],
-        "tags": ["여행"],
-        "url": "/blog/todo/2024-12-29-%EB%8D%95%EC%A0%81%EB%8F%84_%EA%B5%B4%EC%97%85%EB%8F%84/",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "겨울 몽골 여행",
@@ -90,32 +90,32 @@ var store = [{
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
     "title": "TODO",
-    "excerpt":"","url": "https://maeul2.github.io/blog/todo/"
+    "excerpt":"","url": "http://localhost:4000/blog/todo/"
   },{
     "title": "Feed",
-    "excerpt":"","url": "https://maeul2.github.io/blog/feed/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/feed/index.html"
   },{
     "title": "Library",
-    "excerpt":"","url": "https://maeul2.github.io/blog/library/index.html"
-  },{
-    "title": "Design Pattern",
-    "excerpt":"","url": "https://maeul2.github.io/blog/dev/design_pattern/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/library/index.html"
   },{
     "title": "Spring Security",
-    "excerpt":"","url": "https://maeul2.github.io/blog/dev/spring/security/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/spring-security/index.html"
   },{
     "title": "Spring",
-    "excerpt":"","url": "https://maeul2.github.io/blog/dev/spring/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/spring/index.html"
   },{
     "title": "MICROSERVICE",
-    "excerpt":"","url": "https://maeul2.github.io/blog/dev/microservice/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/microservice/index.html"
+  },{
+    "title": "Design Pattern",
+    "excerpt":"","url": "http://localhost:4000/blog/design-pattern/index.html"
   },{
     "title": "Domain Driven Design",
-    "excerpt":"","url": "https://maeul2.github.io/blog/dev/ddd/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/d-d-d/index.html"
   },{
     "title": "Dev",
-    "excerpt":"","url": "https://maeul2.github.io/blog/dev/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/dev/index.html"
   },{
     "title": "마을이네",
-    "excerpt":"","url": "https://maeul2.github.io/blog/index.html"
+    "excerpt":"","url": "http://localhost:4000/blog/index.html"
   }]

@@ -13,13 +13,13 @@ main:
 
 dev:
   - title: "D.D.D"
-    url: "/dev/ddd/"
+    url: "/d-d-d/"
   - title: "Design Pattern"
-    url: "/dev/design_pattern/"
+    url: "/design-pattern/"
   - title: "Spring"
-    url: "/dev/spring/"
+    url: "/spring/"
     children:
       - title: "Security"
-        url: "/dev/spring/security/"
+        url: "/spring-security/"
   - title: "MicroService"
-    url: "/dev/microservice/"
+    url: "/microservice/"
