@@ -17,6 +17,12 @@ var store = [{
         "url": "/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html",
         "teaser": "https://github.com/user-attachments/assets/a4c9c853-e70e-493b-84c8-44fde3a8c073"
       },{
+        "title": "이토록 다정한 개인주의자",
+        "excerpt":"이 책을 일게 된 계기는 책의 목차에서 ‘고속버스 좌석 등받이를 마음대로 젖혀도 괜찮을까?’ 라는 제목을 보고 흥미가 동해서 이다. (최근에 비행기나 고속 버스에서 등받이를 젖혀도 되느냐 마냐로 논란이 일었다.) 이 외에도 책에서는 기냐 아니냐로 논란이 일었던 사건들을 다루고 있다. 과연 이 책에서는 어떤 입장의 손을 들어줄까? 라는 생각을 하며 책을...","categories": ["LIBRARY"],
+        "tags": ["TODO"],
+        "url": "/blog/2024/12/%EA%B0%9C%EC%9D%B8%EC%A3%BC%EC%9D%98%EC%9E%90.html",
+        "teaser": "https://github.com/user-attachments/assets/8e4832bd-e37e-4997-bd66-628dd31fbbd6"
+      },{
         "title": "혹한기 지옥 훈련",
         "excerpt":"  내 집나간 포핸드는 언제 돌아오는걸까?  ","categories": ["FEED"],
         "tags": [],
@@ -29,16 +35,16 @@ var store = [{
         "url": "/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
+        "title": "1일 1페이지, 세상에서 가장 짧은 교양수업 365",
+        "excerpt":"지금까지 읽은 내용으로 봤을 때   네 저는 지금까지 교양이 없었고 앞으로도 교양 있는 사람이 되기는 힘들 것 같습니다…  ","categories": ["LIBRARY"],
+        "tags": ["TODO"],
+        "url": "/blog/2024/12/%EA%B5%90%EC%96%91.html",
+        "teaser": "https://github.com/user-attachments/assets/9775b50f-3601-4687-a753-55a46c89e866"
+      },{
         "title": "섬진강 자전거길",
         "excerpt":"신문의 날이 월요일!!!   섬진강 벚꽃길 자전거 여행  ","categories": ["TODO"],
         "tags": ["여행"],
         "url": "/blog/2025/04/%EC%84%AC%EC%A7%84%EA%B0%95_%EC%9E%90%EC%A0%84%EA%B1%B0%EA%B8%B8.html",
-        "teaser": "/blog/assets/images/default_teaser.png"
-      },{
-        "title": "덕적도-굴업도 여행",
-        "excerpt":"마을이와 함께하는 섬여행   덕적도에서 낚시하고 굴업도에서 백패킹.  ","categories": ["TODO"],
-        "tags": ["여행"],
-        "url": "/blog/2025/09/%EB%8D%95%EC%A0%81%EB%8F%84_%EA%B5%B4%EC%97%85%EB%8F%84.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "드럼 배우기",
@@ -53,16 +59,34 @@ var store = [{
         "url": "/blog/2025/12/%EB%B0%94%EB%91%91.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
+        "title": "덕적도-굴업도 여행",
+        "excerpt":"마을이와 함께하는 섬여행   덕적도에서 낚시하고 굴업도에서 백패킹.  ","categories": ["TODO"],
+        "tags": ["여행"],
+        "url": "/blog/2025/12/%EB%8D%95%EC%A0%81%EB%8F%84_%EA%B5%B4%EC%97%85%EB%8F%84.html",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
         "title": "캐나다 여행",
-        "excerpt":"아직 먼 이야기지만 캐나다 여행.   퀘백, 옐로나이프…  ","categories": ["TODO"],
+        "excerpt":"퀘백, 옐로나이프…  ","categories": ["TODO"],
         "tags": ["여행"],
         "url": "/blog/2026/12/%EC%BA%90%EB%82%98%EB%8B%A4_%EC%97%AC%ED%96%89.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "겨울 몽골 여행",
-        "excerpt":"28-29살 20대에 느꼈던 몽골이랑 30대에 느끼는 몽골은 다른 느낌일까?   뭐 여름 겨울이니 당연히 다르긴 하겟지만ㅋ   가긴 할까??ㅋㅋ   ","categories": ["TODO"],
+        "excerpt":"28-29살 20대에 느꼈던 몽골이랑 30대에 느끼는 몽골은 다른 느낌일까?   뭐 여름 겨울이니 당연히 다르긴 하겟지만ㅋ   과연 갈 것 인가…   ","categories": ["TODO"],
         "tags": ["여행"],
         "url": "/blog/2027/12/%EB%AA%BD%EA%B3%A8_%EC%97%AC%ED%96%89.html",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
+        "title": "북유럽 여행",
+        "excerpt":"피요르드, 트레킹…젊을 때 고생해야지  ","categories": ["TODO"],
+        "tags": ["여행"],
+        "url": "/blog/2027/12/%EB%B6%81%EC%9C%A0%EB%9F%BD_%EC%97%AC%ED%96%89.html",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
+        "title": "뉴질랜드 여행",
+        "excerpt":"10년차 근속 휴가. 이 때가 오긴 할까ㅋㅋ  ","categories": ["TODO"],
+        "tags": ["여행"],
+        "url": "/blog/2032/12/%EB%89%B4%EC%A7%88%EB%9E%9C%EB%93%9C_%EC%97%AC%ED%96%89.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
     "title": "TODO",
@@ -71,8 +95,23 @@ var store = [{
     "title": "Feed",
     "excerpt":"","url": "https://maeul2.github.io/blog/feed/index.html"
   },{
+    "title": "Library",
+    "excerpt":"","url": "https://maeul2.github.io/blog/library/index.html"
+  },{
+    "title": "Design Pattern",
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/design_pattern/index.html"
+  },{
+    "title": "Spring Security",
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/spring/security/index.html"
+  },{
+    "title": "Spring",
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/spring/index.html"
+  },{
+    "title": "MICROSERVICE",
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/microservice/index.html"
+  },{
     "title": "Domain Driven Design",
-    "excerpt":"","url": "https://maeul2.github.io/blog/dev/D.D.D/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/ddd/index.html"
   },{
     "title": "Dev",
     "excerpt":"","url": "https://maeul2.github.io/blog/dev/index.html"

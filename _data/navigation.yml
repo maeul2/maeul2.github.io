@@ -9,13 +9,17 @@ main:
   - title: "GALLERY"  
     url: "#"
   - title: "LIBRARY"
-    url: "#"
+    url: "/library/"
 
 dev:
   - title: "D.D.D"
-    url: "/dev/D.D.D/"
+    url: "/dev/ddd/"
   - title: "Design Pattern"
-    url: "#"
-  - title: "Spring Security"
-    url: "#"
+    url: "/dev/design_pattern/"
+  - title: "Spring"
+    url: "/dev/spring/"
+    children:
+      - title: "Security"
+        url: "/dev/spring/security/"
   - title: "MicroService"
+    url: "/dev/microservice/"
