@@ -90,32 +90,32 @@ var store = [{
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
     "title": "TODO",
-    "excerpt":"","url": "http://localhost:4000/blog/todo/"
+    "excerpt":"","url": "https://maeul2.github.io/blog/todo/"
   },{
     "title": "Feed",
-    "excerpt":"","url": "http://localhost:4000/blog/feed/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/feed/index.html"
   },{
     "title": "Library",
-    "excerpt":"","url": "http://localhost:4000/blog/library/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/library/index.html"
   },{
     "title": "Spring Security",
-    "excerpt":"","url": "http://localhost:4000/blog/spring-security/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/spring-security/index.html"
   },{
     "title": "Spring",
-    "excerpt":"","url": "http://localhost:4000/blog/spring/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/spring/index.html"
   },{
     "title": "MICROSERVICE",
-    "excerpt":"","url": "http://localhost:4000/blog/microservice/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/microservice/index.html"
   },{
     "title": "Design Pattern",
-    "excerpt":"","url": "http://localhost:4000/blog/design-pattern/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/design-pattern/index.html"
   },{
     "title": "Domain Driven Design",
-    "excerpt":"","url": "http://localhost:4000/blog/d-d-d/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/d-d-d/index.html"
   },{
     "title": "Dev",
-    "excerpt":"","url": "http://localhost:4000/blog/dev/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/dev/index.html"
   },{
     "title": "마을이네",
-    "excerpt":"","url": "http://localhost:4000/blog/index.html"
+    "excerpt":"","url": "https://maeul2.github.io/blog/index.html"
   }]
