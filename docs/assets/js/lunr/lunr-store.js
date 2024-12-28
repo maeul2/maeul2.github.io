@@ -24,21 +24,45 @@ var store = [{
         "teaser": "https://github.com/user-attachments/assets/0703db94-26a8-4e67-9bc8-81bcfddb099d"
       },{
         "title": "개발 카테고리를 처음 만들며... 요즘 고민",
-        "excerpt":"요즘 업무적으로도 그렇고 개인 공부하면서도 그렇고 어느 한 도메인에서 일어난 이벤트들을 기록하는 기능을 어떻게 구현해야 할지 고민 중이다. 왜 하느냐? 하면… 이벤트 저장 사용자가 어떤 행위를 하였는지 추후 분석 할 수 있도록 이벤트 조회 저장 된 이벤트를 리플레이 하여 엔티티를 과거 상태로 복원 어플리케이션 계층 관점에서 보자면 이력 관리 기능이라고...","categories": ["DEV","D.D.D"],
+        "excerpt":"요즘 업무에서도 그렇고 개인 공부하면서도 그렇고 어느 한 도메인에서 일어난 이벤트들을 기록하는 기능을 어떻게 구현해야 할지 고민 중이다. 왜 하느냐? 하면… 이벤트 저장 사용자가 어떤 행위를 하였는지 추후 분석 할 수 있도록 이벤트 조회 저장 된 이벤트를 리플레이 하여 엔티티를 과거 상태로 복원 어플리케이션 계층 관점에서 보자면 이력 관리 기능이라고...","categories": ["DEV","D.D.D"],
         "tags": ["TODO"],
         "url": "/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "섬진강 자전거길",
-        "excerpt":"신문의 날이 월요일!!!  ","categories": ["TODO"],
-        "tags": [],
+        "excerpt":"신문의 날이 월요일!!!   섬진강 벚꽃길 자전거 여행  ","categories": ["TODO"],
+        "tags": ["여행"],
         "url": "/blog/2025/04/%EC%84%AC%EC%A7%84%EA%B0%95_%EC%9E%90%EC%A0%84%EA%B1%B0%EA%B8%B8.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
         "title": "덕적도-굴업도 여행",
-        "excerpt":" ","categories": ["TODO"],
-        "tags": [],
+        "excerpt":"마을이와 함께하는 섬여행   덕적도에서 낚시하고 굴업도에서 백패킹.  ","categories": ["TODO"],
+        "tags": ["여행"],
         "url": "/blog/2025/09/%EB%8D%95%EC%A0%81%EB%8F%84_%EA%B5%B4%EC%97%85%EB%8F%84.html",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
+        "title": "드럼 배우기",
+        "excerpt":"드럼을 배우고 언젠가 마음 맞는 사람들이랑 밴드 활동도 해보고 싶다.  ","categories": ["TODO"],
+        "tags": ["취미"],
+        "url": "/blog/2025/12/%EB%93%9C%EB%9F%BC.html",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
+        "title": "바둑 배우기",
+        "excerpt":" ","categories": ["TODO"],
+        "tags": ["취미"],
+        "url": "/blog/2025/12/%EB%B0%94%EB%91%91.html",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
+        "title": "캐나다 여행",
+        "excerpt":"아직 먼 이야기지만 캐나다 여행.   퀘백, 옐로나이프…  ","categories": ["TODO"],
+        "tags": ["여행"],
+        "url": "/blog/2026/12/%EC%BA%90%EB%82%98%EB%8B%A4_%EC%97%AC%ED%96%89.html",
+        "teaser": "/blog/assets/images/default_teaser.png"
+      },{
+        "title": "겨울 몽골 여행",
+        "excerpt":"28-29살 20대에 느꼈던 몽골이랑 30대에 느끼는 몽골은 다른 느낌일까?   뭐 여름 겨울이니 당연히 다르긴 하겟지만ㅋ   가긴 할까??ㅋㅋ   ","categories": ["TODO"],
+        "tags": ["여행"],
+        "url": "/blog/2027/12/%EB%AA%BD%EA%B3%A8_%EC%97%AC%ED%96%89.html",
         "teaser": "/blog/assets/images/default_teaser.png"
       },{
     "title": "TODO",
@@ -55,4 +79,7 @@ var store = [{
   },{
     "title": "마을이네",
     "excerpt":"","url": "https://maeul2.github.io/blog/index.html"
+  },{
+    "title": "마을이네",
+    "excerpt":"","url": "https://maeul2.github.io/blog/page/2/index.html"
   }]
