@@ -1,1 +1,1 @@
-Sitemap: https://maeul2.github.io/pages/maeul2/sitemap.xml
+Sitemap: https://maeul2.github.io/sitemap.xml
