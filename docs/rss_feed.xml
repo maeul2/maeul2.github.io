@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>마을이네</title>
+    <description>마을이 주인 블로그</description>
+    <link>https://maeul2.github.io/</link>
+    <atom:link href="https://maeul2.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 Dec 2024 03:25:15 +0900</pubDate>
+    <lastBuildDate>Tue, 31 Dec 2024 03:25:15 +0900</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>개발 카테고리를 처음 만들며... 요즘 고민</title>
+        <description>&lt;p&gt;요즘 업무에서도 그렇고 개인 공부하면서도 그렇고&lt;/p&gt;
+
+&lt;p&gt;어느 한 도메인에서 일어난 이벤트들을 기록하는 기능을 어떻게 구현해야 할지 고민 중이다.&lt;/p&gt;
+
+&lt;p&gt;왜 하느냐? 하면…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;이벤트 저장
+    &lt;ul&gt;
+      &lt;li&gt;사용자가 어떤 행위를 하였는지 추후 분석 할 수 있도록&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;이벤트 조회
+    &lt;ul&gt;
+      &lt;li&gt;저장 된 이벤트를 리플레이 하여 엔티티를 과거 상태로 복원&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;어플리케이션 계층 관점에서 보자면 &lt;strong&gt;이력 관리&lt;/strong&gt; 기능이라고 할 수 있겠다.&lt;/p&gt;
+
+&lt;p&gt;우선 이벤트가 일어나는 도메인과 도메인 이벤트들을 저장하고 조회 하는 도메인(앞으로 이력 관리 도메인)으로 나누기로 하였다.&lt;/p&gt;
+
+&lt;p&gt;이벤트가 일어나는 도메인의 인프라 계층에서 도메인 이벤트 &amp;lt;-&amp;gt; 이력 관리 용 이벤트 변환을 하기로 한다.&lt;/p&gt;
+
+&lt;p&gt;큰 틀애서 바운디드 컨텍스트는 나눈 것 같은데…&lt;/p&gt;
+
+&lt;p&gt;여기서 가장 큰 고민이&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;어느 도메인에서 발생한 이벤트들을 이력 관리 도메인에 넘겨주기 전까지 어디에 보관하고&lt;/li&gt;
+  &lt;li&gt;이벤트 처리 핸들러를 어디에 구현할 것인가&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이다.&lt;/p&gt;
+
+&lt;p&gt;위 고민들에 대한 답을 찾는대로 여기에 마저 정리 하겠다…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;참고 자료
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342975885&quot;&gt;이벤트 소싱과 마이크로서비스 아키텍처&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 27 Dec 2024 23:00:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html</guid>
+        
+        <category>TODO</category>
+        
+        
+        <category>DEV</category>
+        
+        <category>D.D.D</category>
+        
+      </item>
+    
+      <item>
+        <title>혹한기 지옥 훈련</title>
+        <description>&lt;video src=&quot;https://github.com/user-attachments/assets/f22d3781-1df0-44a8-92a8-b7453cc6acb0&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+
+&lt;p&gt;내 집나간 포핸드는 언제 돌아오는걸까?&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Dec 2024 19:00:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/12/%ED%98%B9%ED%95%9C%EA%B8%B0_%EC%A7%80%EC%98%A5_%ED%9B%88%EB%A0%A8.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/12/%ED%98%B9%ED%95%9C%EA%B8%B0_%EC%A7%80%EC%98%A5_%ED%9B%88%EB%A0%A8.html</guid>
+        
+        
+        <category>FEED</category>
+        
+      </item>
+    
+      <item>
+        <title>이토록 다정한 개인주의자</title>
+        <description>&lt;p&gt;이 책을 일게 된 계기는 책의 목차에서&lt;/p&gt;
+
+&lt;p&gt;‘고속버스 좌석 등받이를 마음대로 젖혀도 괜찮을까?’&lt;/p&gt;
+
+&lt;p&gt;라는 제목을 보고 흥미가 동해서 이다.&lt;/p&gt;
+
+&lt;p&gt;(최근에 비행기나 고속 버스에서 등받이를 젖혀도 되느냐 마냐로 논란이 일었다.)&lt;/p&gt;
+
+&lt;p&gt;이 외에도 책에서는 기냐 아니냐로 논란이 일었던 사건들을 다루고 있다.&lt;/p&gt;
+
+&lt;p&gt;과연 이 책에서는 어떤 입장의 손을 들어줄까? 라는 생각을 하며 책을 읽기 시작했다.&lt;/p&gt;
+
+&lt;p&gt;책을 다 읽고 나서 든 생각은 이 책에서는 기냐 아니냐 보단 &lt;strong&gt;중용&lt;/strong&gt; 을 추구하고자 하는 것 같다.&lt;/p&gt;
+
+&lt;p&gt;요즘들어 정치나 사회뿐 아니라 우리 주변에서도 ‘갈라치기’라는 말이 꽤나 들린다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;남 vs 여&lt;/li&gt;
+  &lt;li&gt;청년 세대 vs 기성 세대&lt;/li&gt;
+  &lt;li&gt;진보 vs 보수&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;등 어떤 일에 대해 두 집단으로 갈라져 극한 대립을 하는 일이 더욱 빈번하게 일어나고 있다.&lt;/p&gt;
+
+&lt;p&gt;이런 극한의 대립 상황 속에서 양 집단의 의견을 설명 해준 뒤 이런 의견은 이래서 안 돼, 저래서 안 돼 시시비비를 가리기 보다&lt;/p&gt;
+
+&lt;p&gt;상대방의 의견이 이러저러러하니 우리는 이렇게 하면 어떨까 하는, 상대방의 의견을 존중하는 방법을 말하고자 하는 것 같다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;엄밀히 따지자면 약간 소수 의견을 더욱 존중하고자 하는 느낌은 있다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;특히 인터넷 상에서 뉴스를 보다보면 댓글창에서 꼭 누군가의 잘잘못을 따지려고 하는 글들을 볼 수 있다. 심지어 안타까운 사고 뉴스에서도.&lt;/p&gt;
+
+&lt;p&gt;뭐 당장 나부터 이 책을 읽기 전 제목을 보고 누가 잘못일까 생각하며 책을 폈으니…&lt;/p&gt;
+
+&lt;p&gt;극한의 대립이 빈번하게 일어나는 세상 속에서 상황에 휩쓸려 쉽게 누군가를 공격하고 갈등을 빚기 보다는 역지사지를 고민 할 수 있는 사람이 되도록 노력하자.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://aladin.kr/p/rqp0P&quot;&gt;이토록 다정한 개인주의자&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Dec 2024 12:29:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/12/%EA%B0%9C%EC%9D%B8%EC%A3%BC%EC%9D%98%EC%9E%90.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/12/%EA%B0%9C%EC%9D%B8%EC%A3%BC%EC%9D%98%EC%9E%90.html</guid>
+        
+        
+        <category>LIBRARY</category>
+        
+      </item>
+    
+      <item>
+        <title>이게 뭘까?</title>
+        <description>&lt;p&gt;마을이랑 산책 중에 수풀에서 소리가 나는 곳을 마을이가 뚫어지게 보길래 뭔가 해서 봣는데…&lt;/p&gt;
+
+&lt;video src=&quot;https://github.com/user-attachments/assets/08bac62b-0097-47ab-b45b-7467dff8a95c&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+
+&lt;p&gt;너구리인가? 여우는 아니겟지ㅎㅎ&lt;/p&gt;
+
+&lt;p&gt;처음으로 갤럭시가 아쉬웠다ㅋㅋ&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Dec 2024 23:00:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html</guid>
+        
+        
+        <category>FEED</category>
+        
+      </item>
+    
+      <item>
+        <title>병원에서</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://drive.google.com/thumbnail?id=15lok8w-m1sjiz5CtB_-cM9sOLS-wrr4Q&amp;amp;sz=w1000&quot; alt=&quot;연합뉴스&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;연 합 뉴 스!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Dec 2024 12:00:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html</guid>
+        
+        
+        <category>FEED</category>
+        
+      </item>
+    
+      <item>
+        <title>블로그를 처음 시작하며...</title>
+        <description>&lt;p&gt;취업한지 어언 2년하고도 6개월이 지났는데…&lt;/p&gt;
+
+&lt;p&gt;2년 6개월 동안 거의 집 - 회사 - 테니스 루틴이었던 것 같다.&lt;/p&gt;
+
+&lt;p&gt;그런 와중에 부상과 테니스장 리모델링으로 일상 루틴 중 유일한 취미 생활이 중단 될 위기에 처한 상황이다!&lt;/p&gt;
+
+&lt;p&gt;뭐 테니스를 쉬는 동안 체형 교정도 할겸 P.T를 받을 계획이긴 하지만 예나 지금이나 헬스는 재미가 없다ㅠ&lt;/p&gt;
+
+&lt;p&gt;다른 취미 활동이 뭐가 있을까 고민하던 차에 그냥 블로그나 해볼까 하는 생각이 들었다.&lt;/p&gt;
+
+&lt;p&gt;명색이 개발자이기도 하니 개발 공부 기록도 하고 일상 기록도 하고 등등&lt;/p&gt;
+
+&lt;p&gt;돈 안들고 꾸미는데 시간 잘가고ㅎㅎ&lt;/p&gt;
+
+&lt;p&gt;아직까지는 꾸미는게 재밌긴 한데 이렇게 만들어 놓고 막상 얼마나 갈지는 솔직히 모르겠다ㅋ&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://drive.google.com/thumbnail?id=15m6XrCYqEjPCnUSWVegrKXJlY83tvBZi&amp;amp;sz=w1000&quot; alt=&quot;블로그 첫 게시글을 쓰며...&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt; &lt;br /&gt;
+&lt;sub&gt;이 글을 쓰며 처음 마셔보는 맥주. 그냥 뭐 깔끔^^&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;테니스 치고 싶다!!!ㅋㅋㅋ&lt;/p&gt;
+
+&lt;p&gt;이만 글 줄이고 자야겠다. 다음 글은 언제 쓸까? 쓰긴 할까?ㅎ&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://m.sports.naver.com/game/2024122210050850301/relay&quot;&gt;자려는데 이거 뭔데&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 22 Dec 2024 00:00:00 +0900</pubDate>
+        <link>https://maeul2.github.io/initial-commit/</link>
+        <guid isPermaLink="true">https://maeul2.github.io/initial-commit/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>1일 1페이지, 세상에서 가장 짧은 교양수업 365</title>
+        <description>&lt;p&gt;지금까지 읽은 내용으로 봤을 때&lt;/p&gt;
+
+&lt;p&gt;네 저는 지금까지 교양이 없는 사람이었고 앞으로도 교양 있는 사람이 되기는 힘들 것 같습니다…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://aladin.kr/p/dMCTH&quot;&gt;1일 1페이지, 세상에서 가장 짧은 교양수업 365&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Sep 2024 19:25:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/09/%EA%B5%90%EC%96%91.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/09/%EA%B5%90%EC%96%91.html</guid>
+        
+        <category>TODO</category>
+        
+        
+        <category>LIBRARY</category>
+        
+      </item>
+    
+  </channel>
+</rss>
