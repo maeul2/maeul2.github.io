@@ -7,7 +7,7 @@ main:
   - title: "TODO"
     url: "/todo/"
   - title: "GALLERY"  
-    url: "#"
+    url: "/gallery/"
   - title: "LIBRARY"
     url: "/library/"
 

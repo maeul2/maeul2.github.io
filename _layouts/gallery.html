@@ -1,0 +1,13 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries = paginator.posts | default: site[include.collection] | where_exp: "post", "post.hidden != true" %}
+
+{%- for post in entries -%}
+  {{ post.content }}
+{%- endfor -%}
+
+{% include paginator.html %}

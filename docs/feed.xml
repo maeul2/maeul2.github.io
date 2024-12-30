@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://maeul2.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maeul2.github.io/blog/" rel="alternate" type="text/html" /><updated>2024-12-29T06:00:20+09:00</updated><id>https://maeul2.github.io/blog/feed.xml</id><title type="html">마을이네</title><subtitle>마을이 주인 블로그</subtitle><author><name>WSL2077</name></author><entry><title type="html">개발 카테고리를 처음 만들며… 요즘 고민</title><link href="https://maeul2.github.io/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html" rel="alternate" type="text/html" title="개발 카테고리를 처음 만들며… 요즘 고민" /><published>2024-12-27T23:00:00+09:00</published><updated>2024-12-29T01:07:52+09:00</updated><id>https://maeul2.github.io/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC</id><content type="html" xml:base="https://maeul2.github.io/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html"><![CDATA[<p>요즘 업무에서도 그렇고 개인 공부하면서도 그렇고</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://maeul2.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://maeul2.github.io/blog/" rel="alternate" type="text/html" /><updated>2024-12-31T01:55:50+09:00</updated><id>https://maeul2.github.io/blog/feed.xml</id><title type="html">마을이네</title><subtitle>마을이 주인 블로그</subtitle><author><name>WSL2077</name></author><entry><title type="html">개발 카테고리를 처음 만들며… 요즘 고민</title><link href="https://maeul2.github.io/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html" rel="alternate" type="text/html" title="개발 카테고리를 처음 만들며… 요즘 고민" /><published>2024-12-27T23:00:00+09:00</published><updated>2024-12-29T01:07:52+09:00</updated><id>https://maeul2.github.io/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC</id><content type="html" xml:base="https://maeul2.github.io/blog/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html"><![CDATA[<p>요즘 업무에서도 그렇고 개인 공부하면서도 그렇고</p>
 
 <p>어느 한 도메인에서 일어난 이벤트들을 기록하는 기능을 어떻게 구현해야 할지 고민 중이다.</p>
 
@@ -70,23 +70,25 @@
 
 <p>이런 극한의 대립 상황 속에서 양 집단의 의견을 설명 해준 뒤 이런 의견은 이래서 안 돼, 저래서 안 돼 시시비비를 가리기 보다</p>
 
-<p>상대방의 의견이 이러하니 우리는 이렇게 하면 어떨까 하는, 상대방의 의견을 존중하는 방법을 말하고자 하는 것 같다.</p>
+<p>상대방의 의견이 이러저러러하니 우리는 이렇게 하면 어떨까 하는, 상대방의 의견을 존중하는 방법을 말하고자 하는 것 같다.</p>
 
 <ul>
   <li>엄밀히 따지자면 약간 소수 의견을 더욱 존중하고자 하는 느낌은 있다.</li>
 </ul>
 
-<p>특히 인터넷 상에서 뉴스를 보다보면 댓글창에서 꼭 누군가의 잘잘못을 가리고자 하는 글들을 볼 수 있다. 심지어 안타까운 사고 뉴스에서도.</p>
+<p>특히 인터넷 상에서 뉴스를 보다보면 댓글창에서 꼭 누군가의 잘잘못을 따지려고 하는 글들을 볼 수 있다. 심지어 안타까운 사고 뉴스에서도.</p>
 
-<p>뭐 당장 나부터 이 책을 읽기 전 제목을 보고 누가 잘 못일까 생각하며 책을 폈으니…</p>
+<p>뭐 당장 나부터 이 책을 읽기 전 제목을 보고 누가 잘못일까 생각하며 책을 폈으니…</p>
 
-<p>극한의 대립이 빈번하게 일어나는 세상 속에서 상황에 휩쓸려 쉽게 누군가를 공격하고 갈등을 빚기 보다는 역지사지를 고민 할 수 있는 사람이 되도록 노력하자.</p>]]></content><author><name>WSL2077</name></author><category term="LIBRARY" /><summary type="html"><![CDATA[이 책을 일게 된 계기는 책의 목차에서]]></summary></entry><entry><title type="html">이게 뭘까?</title><link href="https://maeul2.github.io/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html" rel="alternate" type="text/html" title="이게 뭘까?" /><published>2024-12-25T23:00:00+09:00</published><updated>2024-12-29T05:59:56+09:00</updated><id>https://maeul2.github.io/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC</id><content type="html" xml:base="https://maeul2.github.io/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html"><![CDATA[<p>마을이랑 산책 중에 수풀에서 소리가 나는 곳을 마을이가 뚫어지게 보길래 뭔가 해서 봣는데…</p>
+<p>극한의 대립이 빈번하게 일어나는 세상 속에서 상황에 휩쓸려 쉽게 누군가를 공격하고 갈등을 빚기 보다는 역지사지를 고민 할 수 있는 사람이 되도록 노력하자.</p>
+
+<p><a href="http://aladin.kr/p/rqp0P">이토록 다정한 개인주의자</a></p>]]></content><author><name>WSL2077</name></author><category term="LIBRARY" /><summary type="html"><![CDATA[이 책을 일게 된 계기는 책의 목차에서]]></summary></entry><entry><title type="html">이게 뭘까?</title><link href="https://maeul2.github.io/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html" rel="alternate" type="text/html" title="이게 뭘까?" /><published>2024-12-25T23:00:00+09:00</published><updated>2024-12-29T05:59:56+09:00</updated><id>https://maeul2.github.io/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC</id><content type="html" xml:base="https://maeul2.github.io/blog/2024/12/%EB%84%88%EA%B5%AC%EB%A6%AC.html"><![CDATA[<p>마을이랑 산책 중에 수풀에서 소리가 나는 곳을 마을이가 뚫어지게 보길래 뭔가 해서 봣는데…</p>
 
 <video src="https://github.com/user-attachments/assets/08bac62b-0097-47ab-b45b-7467dff8a95c" controls=""></video>
 
 <p>너구리인가? 여우는 아니겟지ㅎㅎ</p>
 
-<p>처음으로 갤럭시가 아쉬웠다ㅋㅋ</p>]]></content><author><name>WSL2077</name></author><category term="FEED" /><summary type="html"><![CDATA[너구리?]]></summary></entry><entry><title type="html">병원에서</title><link href="https://maeul2.github.io/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html" rel="alternate" type="text/html" title="병원에서" /><published>2024-12-23T12:00:00+09:00</published><updated>2024-12-27T09:04:30+09:00</updated><id>https://maeul2.github.io/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C</id><content type="html" xml:base="https://maeul2.github.io/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html"><![CDATA[<p><img src="https://github.com/user-attachments/assets/676408f8-c0a5-4322-9730-ae403c008a27" alt="연합뉴스" /></p>
+<p>처음으로 갤럭시가 아쉬웠다ㅋㅋ</p>]]></content><author><name>WSL2077</name></author><category term="FEED" /><summary type="html"><![CDATA[너구리?]]></summary></entry><entry><title type="html">병원에서</title><link href="https://maeul2.github.io/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html" rel="alternate" type="text/html" title="병원에서" /><published>2024-12-23T12:00:00+09:00</published><updated>2024-12-27T09:04:30+09:00</updated><id>https://maeul2.github.io/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C</id><content type="html" xml:base="https://maeul2.github.io/blog/2024/12/%EB%B3%91%EC%9B%90%EC%97%90%EC%84%9C.html"><![CDATA[<p><img src="https://drive.google.com/thumbnail?id=15lok8w-m1sjiz5CtB_-cM9sOLS-wrr4Q&amp;sz=w1000" alt="연합뉴스" /></p>
 
 <p>연 합 뉴 스!</p>]]></content><author><name>WSL2077</name></author><category term="FEED" /><summary type="html"><![CDATA[병원 뷰가 아주 끝내주는구만~]]></summary></entry><entry><title type="html">블로그를 처음 시작하며…</title><link href="https://maeul2.github.io/blog/initial-commit/" rel="alternate" type="text/html" title="블로그를 처음 시작하며…" /><published>2024-12-22T00:00:00+09:00</published><updated>2024-12-28T02:31:04+09:00</updated><id>https://maeul2.github.io/blog/%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%B2%AB_%EA%B2%8C%EC%8B%9C%EA%B8%80</id><content type="html" xml:base="https://maeul2.github.io/blog/initial-commit/"><![CDATA[<p>취업한지 어언 2년하고도 6개월이 지났는데…</p>
 
@@ -104,7 +106,7 @@
 
 <p>아직까지는 꾸미는게 재밌긴 한데 이렇게 만들어 놓고 막상 얼마나 갈지는 솔직히 모르겠다ㅋ</p>
 
-<p><img src="https://github.com/user-attachments/assets/f04ead77-8ff9-4036-8d30-8cb228a97a3f" alt="블로그 첫 게시글을 쓰며..." width="50%" height="50%" /> <br />
+<p><img src="https://drive.google.com/thumbnail?id=15m6XrCYqEjPCnUSWVegrKXJlY83tvBZi&amp;sz=w1000" alt="블로그 첫 게시글을 쓰며..." width="50%" height="50%" /> <br />
 <sub>이 글을 쓰며 처음 마셔보는 맥주. 그냥 뭐 깔끔^^</sub></p>
 
 <p>테니스 치고 싶다!!!ㅋㅋㅋ</p>
@@ -115,4 +117,6 @@
   <li><a href="https://m.sports.naver.com/game/2024122210050850301/relay">자려는데 이거 뭔데</a></li>
 </ul>]]></content><author><name>WSL2077</name></author><summary type="html"><![CDATA[취업한지 어언 2년하고도 6개월이 지났는데…]]></summary></entry><entry><title type="html">1일 1페이지, 세상에서 가장 짧은 교양수업 365</title><link href="https://maeul2.github.io/blog/2024/09/%EA%B5%90%EC%96%91.html" rel="alternate" type="text/html" title="1일 1페이지, 세상에서 가장 짧은 교양수업 365" /><published>2024-09-03T19:25:00+09:00</published><updated>2024-12-29T04:49:32+09:00</updated><id>https://maeul2.github.io/blog/2024/09/%EA%B5%90%EC%96%91</id><content type="html" xml:base="https://maeul2.github.io/blog/2024/09/%EA%B5%90%EC%96%91.html"><![CDATA[<p>지금까지 읽은 내용으로 봤을 때</p>
 
-<p>네 저는 지금까지 교양이 없는 사람이었고 앞으로도 교양 있는 사람이 되기는 힘들 것 같습니다…</p>]]></content><author><name>WSL2077</name></author><category term="LIBRARY" /><category term="TODO" /><summary type="html"><![CDATA[읽는 중...]]></summary></entry></feed>
+<p>네 저는 지금까지 교양이 없는 사람이었고 앞으로도 교양 있는 사람이 되기는 힘들 것 같습니다…</p>
+
+<p><a href="http://aladin.kr/p/dMCTH">1일 1페이지, 세상에서 가장 짧은 교양수업 365</a></p>]]></content><author><name>WSL2077</name></author><category term="LIBRARY" /><category term="TODO" /><summary type="html"><![CDATA[읽는 중...]]></summary></entry></feed>
