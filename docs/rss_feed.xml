@@ -5,9 +5,26 @@
     <description>마을이 주인 블로그</description>
     <link>https://maeul2.github.io/</link>
     <atom:link href="https://maeul2.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Dec 2024 03:36:27 +0900</pubDate>
-    <lastBuildDate>Tue, 31 Dec 2024 03:36:27 +0900</lastBuildDate>
+    <pubDate>Tue, 31 Dec 2024 05:55:34 +0900</pubDate>
+    <lastBuildDate>Tue, 31 Dec 2024 05:55:34 +0900</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>구글 검색 노출!</title>
+        <description>&lt;p&gt;진짜 공개 블로그로서의 첫 발&lt;/p&gt;
+
+&lt;p&gt;네이버 검색 노출은 힘드네…하기야 자기들 서비스가 잇으니까 뭐&lt;/p&gt;
+
+&lt;p&gt;구글링 짱!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Dec 2024 00:00:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/12/%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/12/%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89.html</guid>
+        
+        
+        <category>FEED</category>
+        
+      </item>
     
       <item>
         <title>개발 카테고리를 처음 만들며... 요즘 고민</title>
@@ -47,7 +64,7 @@
 
 &lt;p&gt;이다.&lt;/p&gt;
 
-&lt;p&gt;위 고민들에 대한 답을 찾는대로 여기에 마저 정리 하겠다…&lt;/p&gt;
+&lt;p&gt;계속…&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;참고 자료
@@ -203,6 +220,23 @@
         <link>https://maeul2.github.io/initial-commit/</link>
         <guid isPermaLink="true">https://maeul2.github.io/initial-commit/</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>흥이 넘치는 여의도 집회</title>
+        <description>&lt;p&gt;뭐랄까… 집회도 인싸들에게 점령당한 느낌?&lt;/p&gt;
+
+&lt;p&gt;흥? 필?과는 거리가 먼 아싸는 적응하기 힘들엇다.&lt;/p&gt;
+
+&lt;p&gt;자신의 의견을 흥? 필? 넘치게 전달 할 수 있다는 것은 참 좋은 재능인 것 같다.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Dec 2024 00:00:00 +0900</pubDate>
+        <link>https://maeul2.github.io/2024/12/%EC%97%AC%EC%9D%98%EB%8F%84_%ED%83%84%ED%95%B5_%EC%A7%91%ED%9A%8C.html</link>
+        <guid isPermaLink="true">https://maeul2.github.io/2024/12/%EC%97%AC%EC%9D%98%EB%8F%84_%ED%83%84%ED%95%B5_%EC%A7%91%ED%9A%8C.html</guid>
+        
+        
+        <category>FEED</category>
         
       </item>
     

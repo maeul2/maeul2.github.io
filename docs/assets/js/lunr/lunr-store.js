@@ -17,6 +17,12 @@ var store = [{
         "url": "/2024/09/%EA%B5%90%EC%96%91.html",
         "teaser": "https://drive.google.com/thumbnail?id=15DE-N8thxagAOH9eKjNY9DkuSrvIfzum&sz=w1000"
       },{
+        "title": "흥이 넘치는 여의도 집회",
+        "excerpt":"뭐랄까… 집회도 인싸들에게 점령당한 느낌?   흥? 필?과는 거리가 먼 아싸는 적응하기 힘들엇다.   자신의 의견을 흥? 필? 넘치게 전달 할 수 있다는 것은 참 좋은 재능인 것 같다.  ","categories": ["FEED"],
+        "tags": [],
+        "url": "/2024/12/%EC%97%AC%EC%9D%98%EB%8F%84_%ED%83%84%ED%95%B5_%EC%A7%91%ED%9A%8C.html",
+        "teaser": "https://drive.google.com/thumbnail?id=1WHPQ0UrOW8MOY-Dl-tmgmicJ8RNpRAyS&sz=w1000"
+      },{
         "title": "블로그를 처음 시작하며...",
         "excerpt":"취업한지 어언 2년하고도 6개월이 지났는데… 2년 6개월 동안 거의 집 - 회사 - 테니스 루틴이었던 것 같다. 그런 와중에 부상과 테니스장 리모델링으로 일상 루틴 중 유일한 취미 생활이 중단 될 위기에 처한 상황이다! 뭐 테니스를 쉬는 동안 체형 교정도 할겸 P.T를 받을 계획이긴 하지만 예나 지금이나 헬스는 재미가 없다ㅠ 다른...","categories": [],
         "tags": [],
@@ -53,6 +59,12 @@ var store = [{
         "url": "/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html",
         "teaser": "/assets/images/default_teaser.png"
       },{
+        "title": "구글 검색 노출!",
+        "excerpt":"진짜 공개 블로그로서의 첫 발   네이버 검색 노출은 힘드네…하기야 자기들 서비스가 잇으니까 뭐   구글링 짱!  ","categories": ["FEED"],
+        "tags": [],
+        "url": "/2024/12/%EA%B5%AC%EA%B8%80_%EA%B2%80%EC%83%89.html",
+        "teaser": "https://drive.google.com/thumbnail?id=11pblLFq91w9F6DYeXCXSpjTzf0bUXUzx&sz=w1000"
+      },{
         "title": "섬진강 자전거길",
         "excerpt":"신문의 날이 월요일!!!   섬진강 벚꽃길 자전거 여행  ","categories": [],
         "tags": ["여행"],
@@ -72,13 +84,13 @@ var store = [{
         "teaser": "/assets/images/default_teaser.png"
       },{
         "title": "바둑 배우기",
-        "excerpt":" ","categories": [],
+        "excerpt":"시간과 공간 제약 없이 핸드폰만 있으면 할 수 있는 취미가 필요해  ","categories": [],
         "tags": ["취미"],
         "url": "/todo/2024-12-27-%EB%B0%94%EB%91%91/",
         "teaser": "/assets/images/default_teaser.png"
       },{
         "title": "겨울 몽골? 아이슬란드? 여행",
-        "excerpt":"20대에 느꼈던 몽골 or 아이슬란드가 30대에는 느낌일까?   과연 갈까?   ","categories": [],
+        "excerpt":"20대에 느꼈던 몽골 or 아이슬란드가 30대에는 어떤 느낌일까?   과연 갈까?   ","categories": [],
         "tags": ["여행"],
         "url": "/todo/2024-12-28-%EB%AA%BD%EA%B3%A8_%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C_%EC%97%AC%ED%96%89/",
         "teaser": "/assets/images/default_teaser.png"
