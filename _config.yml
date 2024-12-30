@@ -26,7 +26,7 @@ subtitle                 : "since 2022.02" # site tagline that appears below sit
 name                     : "WSL2077"
 description              : "마을이 주인 블로그"
 url                      : "https://maeul2.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "maeul2/maeul2.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/default_teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
