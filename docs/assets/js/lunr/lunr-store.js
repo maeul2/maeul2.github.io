@@ -6,9 +6,15 @@ var store = [{
         "teaser": "/assets/images/default_teaser.png"
       },{
         "title": "Gallery",
-        "excerpt":"                                                                                                                                                                                                                                                                                                                                                                                                     ","categories": [],
+        "excerpt":"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ","categories": [],
         "tags": [],
         "url": "/gallery/2/",
+        "teaser": "/assets/images/default_teaser.png"
+      },{
+        "title": "Gallery",
+        "excerpt":"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ","categories": [],
+        "tags": [],
+        "url": "/gallery/3/",
         "teaser": "/assets/images/default_teaser.png"
       },{
         "title": "1일 1페이지, 세상에서 가장 짧은 교양수업 365",
@@ -59,6 +65,12 @@ var store = [{
         "url": "/2024/12/%EC%9D%B4%EB%A0%A5%EA%B4%80%EB%A6%AC_%EA%B3%A0%EB%AF%BC.html",
         "teaser": "/assets/images/default_teaser.png"
       },{
+        "title": "운전 면허 갱신",
+        "excerpt":"나는 이제 10년 뒤의 일이지만ㅎ 그런데 10년 금방 가네ㄷㄷ   조만간 1종 보통 운전 면허 갱신해야 하는 분들은 건강검진 때   양 눈 각각 0.5이상으로 좋게 만들(?)어서 가시길.   요즘 운전면허      뒷면 입니다.  ","categories": ["FEED"],
+        "tags": [],
+        "url": "/2024/12/%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88_%EA%B0%B1%EC%8B%A0.html",
+        "teaser": "https://drive.google.com/thumbnail?id=1stuBRb-fSeh2IKwXCCokcKwRxzLDpNot&sz=w1000"
+      },{
         "title": "구글 검색 노출!",
         "excerpt":"진짜 공개 블로그로서의 첫 발   네이버 검색 노출은 힘드네…하기야 자기들 서비스가 잇으니까 뭐   구글링 짱!  ","categories": ["FEED"],
         "tags": [],
@@ -84,7 +96,7 @@ var store = [{
         "teaser": "/assets/images/default_teaser.png"
       },{
         "title": "바둑 배우기",
-        "excerpt":"시간과 공간 제약 없이 핸드폰만 있으면 할 수 있는 취미가 필요해  ","categories": [],
+        "excerpt":"시간과 공간 제약 없는 취미가 필요해  ","categories": [],
         "tags": ["취미"],
         "url": "/todo/2024-12-27-%EB%B0%94%EB%91%91/",
         "teaser": "/assets/images/default_teaser.png"
@@ -128,8 +140,14 @@ var store = [{
     "title": "Gallery",
     "excerpt":"","url": "https://maeul2.github.io/gallery/page/2/index.html"
   },{
+    "title": "Gallery",
+    "excerpt":"","url": "https://maeul2.github.io/gallery/page/3/index.html"
+  },{
     "title": "Feed",
     "excerpt":"","url": "https://maeul2.github.io/feed/index.html"
+  },{
+    "title": "Feed",
+    "excerpt":"","url": "https://maeul2.github.io/feed/page/2/index.html"
   },{
     "title": "Library",
     "excerpt":"","url": "https://maeul2.github.io/library/index.html"
