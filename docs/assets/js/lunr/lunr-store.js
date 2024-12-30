@@ -18,7 +18,7 @@ var store = [{
         "teaser": "https://drive.google.com/thumbnail?id=15DE-N8thxagAOH9eKjNY9DkuSrvIfzum&sz=w1000"
       },{
         "title": "흥이 넘치는 여의도 집회",
-        "excerpt":"뭐랄까… 집회도 인싸들에게 점령당한 느낌?   흥? 필?과는 거리가 먼 아싸는 적응하기 힘들엇다.   자신의 의견을 흥? 필? 넘치게 전달 할 수 있다는 것은 참 좋은 재능인 것 같다.  ","categories": ["FEED"],
+        "excerpt":"뭐랄까… 집회도 인싸들에게 점령당한 느낌?   흥? 필?과는 거리가 먼 아싸는 적응하기 힘들엇다.   자신의 의견을 흥? 필? 넘치게 전달 할 수 있다는 것은 참 좋은 재능이다.  ","categories": ["FEED"],
         "tags": [],
         "url": "/2024/12/%EC%97%AC%EC%9D%98%EB%8F%84_%ED%83%84%ED%95%B5_%EC%A7%91%ED%9A%8C.html",
         "teaser": "https://drive.google.com/thumbnail?id=1WHPQ0UrOW8MOY-Dl-tmgmicJ8RNpRAyS&sz=w1000"
